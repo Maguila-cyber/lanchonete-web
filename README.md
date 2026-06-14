@@ -1,1 +1,1 @@
-# lanchonete-web
+# Projeto Lanchonete
